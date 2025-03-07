@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I’m passionate about music and thrilled to be part of the coding world! 🎶💻
 
 <!--
 **TANGLi83-star/TANGLi83-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
